@@ -16,6 +16,6 @@ This project is a frontend clone of the YouTube website built using React. It ai
 ## some screenshots
 ![for large screen](https://github.com/solomonsitot/Youtube-clone-react/blob/main/youtube%20clone/large.png)
 
-![for medium screen](https://github.com/solomonsitot/Youtube-clone-react/blob/main/youtube%20clone/medium.png)
+![for medium screen](https://github.com/solomonsitot/Youtube-clone-react/blob/main/youtube%20clone/mediunm.png)
 
 ![for small screen](https://github.com/solomonsitot/Youtube-clone-react/blob/main/youtube%20clone/small.png)
