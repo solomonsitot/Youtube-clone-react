@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.videos{
+    padding: 20px;
+    background-color: rgb(240, 237, 237);
+    overflow-y: scroll !important;
+    overflow-x: hidden;
+    height: 81.5vh;
+
+}
+::-webkit-scrollbar{
+    width: 0;
+}
